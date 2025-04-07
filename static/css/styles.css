@@ -12,6 +12,13 @@ body {
     color: #333;
 }
 
+.logo {
+    width: 100px;  /* Adjust the width */
+    height: auto;  /* Maintain aspect ratio */
+    display: block;  /* Ensure proper spacing */
+    margin: 10px auto;  /* Center the logo */
+}
+
 .container {
     max-width: 800px;
     margin: 0 auto;
